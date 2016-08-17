@@ -1,0 +1,9 @@
+Building SolarEnergyCoin
+
+See doc/readme-qt.rst for instructions on building SolarEnergyCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SolarEnergyCoin.
+
+See doc/build-*.txt for instructions on building SolarEnergyCoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of SolarEnergyCoin.
